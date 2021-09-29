@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/JSX/使用 {} 包装特性值" />
+  </component>
+</application>
